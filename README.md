@@ -16,6 +16,10 @@
 
 #### [백준 문제집](https://www.acmicpc.net/workbook/view/7768)
 
+- [신입사원 - 1946번](https://www.acmicpc.net/problem/1946)
+- [강의실 - 1374번](https://www.acmicpc.net/problem/1374)
+- [배 - 1092번](https://www.acmicpc.net/problem/1092)
+
 ### 고급
 
 ## Stack/Queue(스택/큐)
