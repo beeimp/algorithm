@@ -19,6 +19,7 @@
 - [신입사원 - 1946번](https://www.acmicpc.net/problem/1946)
 - [강의실 - 1374번](https://www.acmicpc.net/problem/1374)
 - [배 - 1092번](https://www.acmicpc.net/problem/1092)
+- [도서관 - 1461번](https://www.acmicpc.net/problem/1461)
 
 ### 고급
 
