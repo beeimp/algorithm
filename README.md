@@ -65,11 +65,17 @@
 
 ### 중급
 
+#### 백준
+
+- [벽 부수고 이동하기 - 2206번](https://www.acmicpc.net/problem/2206)
+
 ### 고급
 
 ## Dynamic Programming(동적 프로그래밍)
 
 ### 초급
+
+- [타일 채우기 - 2133번](https://www.acmicpc.net/problem/2133)
 
 ### 중급
 
