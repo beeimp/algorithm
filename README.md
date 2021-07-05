@@ -8,18 +8,18 @@
 
 #### [백준 문제집](https://www.acmicpc.net/workbook/view/7767)
 
-- [세탁소 사장 동혁 - 2720번](https://www.acmicpc.net/problem/2720)
-- [전자레인지 - 10162번](https://www.acmicpc.net/problem/10162)
-- [캥거루 세마리2 - 11034번](https://www.acmicpc.net/problem/11034)
+- [세탁소 사장 동혁 - 2720번](/algorithms/greedy/baekjoon/2720.md)
+- [전자레인지 - 10162번](/algorithms/greedy/baekjoon/10162.md)
+- [캥거루 세마리2 - 11034번](/algorithms/greedy/baekjoon/11034.md)
 
 ### 중급
 
 #### [백준 문제집](https://www.acmicpc.net/workbook/view/7768)
 
-- [신입사원 - 1946번](https://www.acmicpc.net/problem/1946)
-- [강의실 - 1374번](https://www.acmicpc.net/problem/1374)
-- [배 - 1092번](https://www.acmicpc.net/problem/1092)
-- [도서관 - 1461번](https://www.acmicpc.net/problem/1461)
+- [신입사원 - 1946번](/algorithms/greedy/baekjoon/1946.md)
+- [강의실 - 1374번](/algorithms/greedy/baekjoon/1374.md)
+- [배 - 1092번](/algorithms/greedy/baekjoon/1092.md)
+- [도서관 - 1461번](/algorithms/greedy/baekjoon/1461.md)
 
 ### 고급
 
@@ -37,7 +37,7 @@
 
 #### 프로그래머스
 
-- [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
+- [K번째수](/algorithms/sort/programmers/K번째수.md)
 
 ### 중급
 
@@ -49,7 +49,7 @@
 
 #### 프로그래머스
 
-- [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
+- [모의고사](/algorithms/search/programmers/모의고사.md)
 
 ### 중급
 
@@ -61,13 +61,13 @@
 
 #### 백준
 
-- [토마토 - 7576번](https://www.acmicpc.net/problem/7576)
+- [토마토 - 7576번](/algorithms/dfs_bfs/baekjoon/7576.md)
 
 ### 중급
 
 #### 백준
 
-- [벽 부수고 이동하기 - 2206번](https://www.acmicpc.net/problem/2206)
+- [벽 부수고 이동하기 - 2206번](/algorithms/dfs_bfs/baekjoon/2206.md)
 
 ### 고급
 
@@ -75,7 +75,7 @@
 
 ### 초급
 
-- [타일 채우기 - 2133번](https://www.acmicpc.net/problem/2133)
+- [타일 채우기 - 2133번](/algorithms/dynamic_programming/baekjoon/2133.md)
 
 ### 중급
 
@@ -87,7 +87,7 @@
 
 #### 백준
 
-- [벌집 - 2292번](https://www.acmicpc.net/problem/2292)
+- [벌집 - 2292번](/algorithms/mathematical_induction/baekjoon/2292.md)
 
 ### 중급
 
