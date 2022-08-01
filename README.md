@@ -31,6 +31,18 @@
 
 ### 고급
 
+## 해시
+
+### 초급
+
+#### 프로그래머스
+
+- [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
+
+### 중급
+
+### 고급
+
 ## Sort(정렬)
 
 ### 초급
@@ -38,6 +50,7 @@
 #### 프로그래머스
 
 - [K번째수](/algorithms/sort/programmers/K번째수.md)
+- [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)
 
 ### 중급
 
