@@ -66,6 +66,8 @@
 
 ### 중급
 
+- [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238?language=python3#)
+
 ### 고급
 
 ## DFS/BFS(깊이 우선 탐색 / 너비 우선 탐색)
